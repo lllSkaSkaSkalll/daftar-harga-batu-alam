@@ -598,35 +598,42 @@
         "id": 86,
         "jenis": "Coral",
         "motif": "hitam besar",
-        "ukuran": 0,
+        "ukuran": "-",
         "harga": 40000
     },
     {
         "id": 87,
         "jenis": "Coral",
         "motif": "putih besar",
-        "ukuran": 0,
+        "ukuran": "-",
         "harga": 35000
     },
     {
         "id": 88,
         "jenis": "Coral",
         "motif": "merah besar",
-        "ukuran": 0,
+        "ukuran": "-",
         "harga": 35000
     },
     {
         "id": 89,
         "jenis": "Lampu",
         "motif": "Tempel",
-        "ukuran": 0,
+        "ukuran": "-",
         "harga": 200000
     },
     {
         "id": 90,
         "jenis": "Lampu",
         "motif": "Duduk",
-        "ukuran": 0,
+        "ukuran": "-",
         "harga": 250000
+    },
+    {
+        "id": 91,
+        "jenis": "Coating",
+        "motif": "all",
+        "ukuran": "-",
+        "harga": 65000
     }
 ]
