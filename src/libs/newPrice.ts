@@ -9,13 +9,20 @@ const operators = {
 
 type Operator = "+" | "-" | "*" | "/";
 
-export const newPrice = (price: number, data: Pricelist, arg: string, newPrice: number, operator: Operator) => {
+export const newPrice = (price: number, data: Pricelist, jenis: string, newPrice: number, operator: Operator, ukuran: string | undefined | null) => {
     if (!(operator in operators)) {
         throw new Error(`Invalid operator: ${operator}`);
     }
 
     const operation = operators[operator];
-    const newData = data.jenis.toLowerCase() === arg ? operation(price, newPrice) : price;
+    let newData;
+
+    if (ukuran) {
+        newData = data.jenis.toLowerCase() === jenis && data.ukuran.toLowerCase() === ukuran ? operation(price, newPrice) : price;
+    } else {
+        newData = data.jenis.toLowerCase() === jenis ? operation(price, newPrice) : price;
+    }
+    // const newData = data.jenis.toLowerCase() === arg ? operation(price, newPrice) : price;
 
     return newData;
 };

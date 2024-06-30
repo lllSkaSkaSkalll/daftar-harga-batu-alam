@@ -8,7 +8,7 @@ const Header = ({ handleSearch }: { handleSearch: (e: React.ChangeEvent<HTMLInpu
                 <button>
                     <MagnifyingGlass size={32} />
                 </button>
-                <input onChange={handleSearch} type="text" placeholder="Search..." className="py-1 focus:outline-none focus:border-none " />
+                <input onChange={handleSearch} type="text" placeholder="Search..." className="py-1 focus:outline-none focus:border-none bg-white" />
             </div>
         </>
     );

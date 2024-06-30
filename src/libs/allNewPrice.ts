@@ -10,4 +10,5 @@ export const priceChange = {
     ornamen: 0,
     coral: 0,
     lampu: 0,
+    coating: 0,
 };
