@@ -11,7 +11,7 @@ const Table = ({ data }: { data: Pricelist[] }) => {
                 <TableHead />
             </thead>
             <tbody>
-                {data.map((item) => {
+                {data.map((item, index) => {
                     const price = item.harga;
 
                     const increment = priceChange[item.jenis.toLowerCase() as keyof typeof priceChange];
@@ -23,7 +23,7 @@ const Table = ({ data }: { data: Pricelist[] }) => {
                         minimumFractionDigits: 0,
                     }).format(newPriceCount);
 
-                    return <TableBody key={item.id} item={item} formatPrice={formatPrice} />;
+                    return <TableBody key={item.id} index={index} item={item} formatPrice={formatPrice} />;
                 })}
             </tbody>
         </table>
