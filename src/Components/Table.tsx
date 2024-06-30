@@ -33,7 +33,9 @@ const Table = ({ data }: { data: Pricelist[] }) => {
                                 <span className={` border-2 border-slate-900 w-10 h-7 flex items-center ml-5 justify-center rounded-md shadow-[3px_3px_0px_white]`}>{item.id}</span>
                             </td>
                             <td className="py-3 text-start pl-10">{item.jenis}</td>
-                            <td className="py-3 text-start">{item.motif}</td>
+                            <td className="py-3 text-start lowercase">
+                                <span className="capitalize">{item.motif}</span>
+                            </td>
                             <td className="py-3 text-start uppercase">{item.ukuran}</td>
                             <td className="py-3 text-start">{formatPrice}</td>
                         </tr>
