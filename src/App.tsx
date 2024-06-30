@@ -39,8 +39,8 @@ function App() {
 
     return (
         <main className="min-h-screen max-w-[1200px] mx-auto">
-            <header className="py-5 flex items-center justify-between px-5 flex-wrap gap-5 border-b-2 border-black">
-                <Header handleSearch={handleSearch} />
+            <header className="py-5 md:px-0 flex items-center justify-between px-5 flex-wrap gap-5 border-b-2 border-black">
+                <Header handleSearch={handleSearch} setSearch={setSearch} search={search} />
             </header>
             <section className="py-5">
                 <Table data={formatedData} />
