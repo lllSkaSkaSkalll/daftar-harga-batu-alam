@@ -1,0 +1,632 @@
+[
+    {
+        "id": 1,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "5 x 40",
+        "harga": 125000
+    },
+    {
+        "id": 2,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "5 x 60",
+        "harga": 160000
+    },
+    {
+        "id": 3,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "10 x 60",
+        "harga": 160000
+    },
+    {
+        "id": 4,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "10 x 40",
+        "harga": 140000
+    },
+    {
+        "id": 5,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "10 x 20",
+        "harga": 120000
+    },
+    {
+        "id": 6,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "15 x 30",
+        "harga": 135000
+    },
+    {
+        "id": 7,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "15 x 60",
+        "harga": 160000
+    },
+    {
+        "id": 8,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "20 x 20",
+        "harga": 135000
+    },
+    {
+        "id": 9,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "20 x 40",
+        "harga": 140000
+    },
+    {
+        "id": 10,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "20 x 60",
+        "harga": 160000
+    },
+    {
+        "id": 11,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "30 x 30",
+        "harga": 145000
+    },
+    {
+        "id": 12,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "30 x 60",
+        "harga": 160000
+    },
+    {
+        "id": 13,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "40 x 40",
+        "harga": 160000
+    },
+    {
+        "id": 14,
+        "jenis": "Andesit",
+        "motif": "Bakar",
+        "ukuran": "40 x 60",
+        "harga": 190000
+    },
+    {
+        "id": 15,
+        "jenis": "Andesit",
+        "motif": "RTA",
+        "ukuran": "10 X 20",
+        "harga": 115000
+    },
+    {
+        "id": 16,
+        "jenis": "Andesit",
+        "motif": "RTA",
+        "ukuran": "15 X 30",
+        "harga": 125000
+    },
+    {
+        "id": 17,
+        "jenis": "Andesit",
+        "motif": "RTA",
+        "ukuran": "20 X 40",
+        "harga": 130000
+    },
+    {
+        "id": 18,
+        "jenis": "Andesit",
+        "motif": "RTA",
+        "ukuran": "30 X 60",
+        "harga": 160000
+    },
+    {
+        "id": 19,
+        "jenis": "Andesit",
+        "motif": "Sisir",
+        "ukuran": "3 X 30",
+        "harga": 120000
+    },
+    {
+        "id": 20,
+        "jenis": "Andesit",
+        "motif": "Sisir",
+        "ukuran": "3 X 40",
+        "harga": 125000
+    },
+    {
+        "id": 21,
+        "jenis": "Andesit",
+        "motif": "Sisir",
+        "ukuran": "5 X 40 ",
+        "harga": 125000
+    },
+    {
+        "id": 22,
+        "jenis": "Camel",
+        "motif": "MAWAR",
+        "ukuran": "20 X 40",
+        "harga": 230000
+    },
+    {
+        "id": 23,
+        "jenis": "Camel",
+        "motif": "ACAK",
+        "ukuran": "20 X 40",
+        "harga": 230000
+    },
+    {
+        "id": 24,
+        "jenis": "Camel",
+        "motif": "ANYAMAN",
+        "ukuran": "20 X 40",
+        "harga": 230000
+    },
+    {
+        "id": 25,
+        "jenis": "Camel",
+        "motif": "HITAM PUTIH",
+        "ukuran": "20 X 40",
+        "harga": 230000
+    },
+    {
+        "id": 26,
+        "jenis": "Marmer",
+        "motif": "Bakar",
+        "ukuran": "10 x 20",
+        "harga": 125000
+    },
+    {
+        "id": 27,
+        "jenis": "Marmer",
+        "motif": "Bakar",
+        "ukuran": "15 x 30",
+        "harga": 145000
+    },
+    {
+        "id": 28,
+        "jenis": "Marmer",
+        "motif": "Bakar",
+        "ukuran": "20 x 20",
+        "harga": 145000
+    },
+    {
+        "id": 29,
+        "jenis": "Marmer",
+        "motif": "Bakar",
+        "ukuran": "20 x 40",
+        "harga": 145000
+    },
+    {
+        "id": 30,
+        "jenis": "Marmo",
+        "motif": "KUNING",
+        "ukuran": "10 x 20",
+        "harga": 150000
+    },
+    {
+        "id": 31,
+        "jenis": "Marmo",
+        "motif": "MERAH",
+        "ukuran": "10 x 20",
+        "harga": 160000
+    },
+    {
+        "id": 32,
+        "jenis": "Marmo",
+        "motif": "PUTIH",
+        "ukuran": "10 x 20",
+        "harga": 165000
+    },
+    {
+        "id": 33,
+        "jenis": "Palimanan",
+        "motif": "RTA",
+        "ukuran": "10 X 20",
+        "harga": 120000
+    },
+    {
+        "id": 34,
+        "jenis": "Palimanan",
+        "motif": "RTA",
+        "ukuran": "15 X 30",
+        "harga": 125000
+    },
+    {
+        "id": 35,
+        "jenis": "Palimanan",
+        "motif": "RTA",
+        "ukuran": "20 X 40",
+        "harga": 130000
+    },
+    {
+        "id": 36,
+        "jenis": "Palimanan",
+        "motif": "RTM",
+        "ukuran": "10 X 20",
+        "harga": 120000
+    },
+    {
+        "id": 37,
+        "jenis": "Palimanan",
+        "motif": "RTM",
+        "ukuran": "15 X 30",
+        "harga": 125000
+    },
+    {
+        "id": 38,
+        "jenis": "Palimanan",
+        "motif": "RTM",
+        "ukuran": "20 X 40",
+        "harga": 130000
+    },
+    {
+        "id": 39,
+        "jenis": "Welcoding",
+        "motif": "OREN",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 40,
+        "jenis": "Welcoding",
+        "motif": "OREN VAR",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 41,
+        "jenis": "Welcoding",
+        "motif": "MIX LOCK",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 42,
+        "jenis": "Welcoding",
+        "motif": "MIX PAPAK",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 43,
+        "jenis": "Welcoding",
+        "motif": "MIX 5CM",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 44,
+        "jenis": "Welcoding",
+        "motif": "H/PUTIH",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 45,
+        "jenis": "Welcoding",
+        "motif": "H/P TANGGA",
+        "ukuran": "20 X 40",
+        "harga": 200000
+    },
+    {
+        "id": 46,
+        "jenis": "Welcoding",
+        "motif": "3 W 3CM",
+        "ukuran": "18 X 40",
+        "harga": 170000
+    },
+    {
+        "id": 47,
+        "jenis": "Welcoding",
+        "motif": "AND 3CM",
+        "ukuran": "18 X 40",
+        "harga": 170000
+    },
+    {
+        "id": 48,
+        "jenis": "Welcoding",
+        "motif": "P 3CM",
+        "ukuran": "18 X 40",
+        "harga": 170000
+    },
+    {
+        "id": 49,
+        "jenis": "Welcoding",
+        "motif": "AND MM",
+        "ukuran": "20 X 50",
+        "harga": 210000
+    },
+    {
+        "id": 50,
+        "jenis": "Welcoding",
+        "motif": "AND MM",
+        "ukuran": "20 X 40",
+        "harga": 210000
+    },
+    {
+        "id": 51,
+        "jenis": "Welcoding",
+        "motif": "CANDI MM",
+        "ukuran": "20 X 40",
+        "harga": 175000
+    },
+    {
+        "id": 52,
+        "jenis": "Welcoding",
+        "motif": "3 W MM",
+        "ukuran": "20 X 50",
+        "harga": 200000
+    },
+    {
+        "id": 53,
+        "jenis": "Welcoding",
+        "motif": "PUTIH MM",
+        "ukuran": "20 X 40",
+        "harga": 170000
+    },
+    {
+        "id": 54,
+        "jenis": "Candi",
+        "motif": "RTM",
+        "ukuran": "10 x 20",
+        "harga": 80000
+    },
+    {
+        "id": 55,
+        "jenis": "Candi",
+        "motif": "RTM",
+        "ukuran": "15 X 15",
+        "harga": 80000
+    },
+    {
+        "id": 56,
+        "jenis": "Candi",
+        "motif": "RTM",
+        "ukuran": "15 x 30",
+        "harga": 95000
+    },
+    {
+        "id": 57,
+        "jenis": "Candi",
+        "motif": "RTM",
+        "ukuran": "20 x 20",
+        "harga": 100000
+    },
+    {
+        "id": 58,
+        "jenis": "Candi",
+        "motif": "RTM",
+        "ukuran": "20 x 40",
+        "harga": 110000
+    },
+    {
+        "id": 59,
+        "jenis": "Candi",
+        "motif": "RTA",
+        "ukuran": "10 x 20",
+        "harga": 85000
+    },
+    {
+        "id": 60,
+        "jenis": "Candi",
+        "motif": "RTA",
+        "ukuran": "15 x 30",
+        "harga": 100000
+    },
+    {
+        "id": 61,
+        "jenis": "Candi",
+        "motif": "RTA",
+        "ukuran": "20 x 40",
+        "harga": 110000
+    },
+    {
+        "id": 62,
+        "jenis": "Candi",
+        "motif": "CONGKEL",
+        "ukuran": "15 x 30",
+        "harga": 120000
+    },
+    {
+        "id": 63,
+        "jenis": "Candi",
+        "motif": "CONGKEL",
+        "ukuran": "20 x 40",
+        "harga": 125000
+    },
+    {
+        "id": 64,
+        "jenis": "Paras",
+        "motif": "BEPEL",
+        "ukuran": "15 x 30",
+        "harga": 135000
+    },
+    {
+        "id": 65,
+        "jenis": "Paras",
+        "motif": "BEPEL",
+        "ukuran": "20 x 40",
+        "harga": 140000
+    },
+    {
+        "id": 66,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "10 X 10",
+        "harga": 35000
+    },
+    {
+        "id": 67,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "15 X 15",
+        "harga": 40000
+    },
+    {
+        "id": 68,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "20 X 20",
+        "harga": 45000
+    },
+    {
+        "id": 69,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "25 X 25",
+        "harga": 50000
+    },
+    {
+        "id": 70,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "30 X 30",
+        "harga": 50000
+    },
+    {
+        "id": 71,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "30 X 40",
+        "harga": 100000
+    },
+    {
+        "id": 72,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "20 X 60 ",
+        "harga": 140000
+    },
+    {
+        "id": 73,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "30 X 60",
+        "harga": 150000
+    },
+    {
+        "id": 74,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "40 X 80",
+        "harga": 450000
+    },
+    {
+        "id": 75,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "60 X 60",
+        "harga": 550000
+    },
+    {
+        "id": 76,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "50 X 100",
+        "harga": 800000
+    },
+    {
+        "id": 77,
+        "jenis": "Ornamen",
+        "motif": "ORNAMEN",
+        "ukuran": "100 X 100",
+        "harga": 1250000
+    },
+    {
+        "id": 78,
+        "jenis": "Coral",
+        "motif": "multi colour",
+        "ukuran": "5/7",
+        "harga": 30000
+    },
+    {
+        "id": 79,
+        "jenis": "Coral",
+        "motif": "multi colour",
+        "ukuran": "7/9",
+        "harga": 30000
+    },
+    {
+        "id": 80,
+        "jenis": "Coral",
+        "motif": "akik Oren",
+        "ukuran": "5/7",
+        "harga": 40000
+    },
+    {
+        "id": 81,
+        "jenis": "Coral",
+        "motif": "akik Oren",
+        "ukuran": "7/9",
+        "harga": 40000
+    },
+    {
+        "id": 82,
+        "jenis": "Coral",
+        "motif": "akik putih",
+        "ukuran": "5/7",
+        "harga": 40000
+    },
+    {
+        "id": 83,
+        "jenis": "Coral",
+        "motif": "akik putih",
+        "ukuran": "7/9",
+        "harga": 40000
+    },
+    {
+        "id": 84,
+        "jenis": "Coral",
+        "motif": "hitam",
+        "ukuran": "5/7",
+        "harga": 40000
+    },
+    {
+        "id": 85,
+        "jenis": "Coral",
+        "motif": "hitam",
+        "ukuran": "7/9",
+        "harga": 40000
+    },
+    {
+        "id": 86,
+        "jenis": "Coral",
+        "motif": "hitam besar",
+        "ukuran": 0,
+        "harga": 40000
+    },
+    {
+        "id": 87,
+        "jenis": "Coral",
+        "motif": "putih besar",
+        "ukuran": 0,
+        "harga": 35000
+    },
+    {
+        "id": 88,
+        "jenis": "Coral",
+        "motif": "merah besar",
+        "ukuran": 0,
+        "harga": 35000
+    },
+    {
+        "id": 89,
+        "jenis": "Lampu",
+        "motif": "Tempel",
+        "ukuran": 0,
+        "harga": 200000
+    },
+    {
+        "id": 90,
+        "jenis": "Lampu",
+        "motif": "Duduk",
+        "ukuran": 0,
+        "harga": 250000
+    }
+]
