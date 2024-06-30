@@ -1,8 +1,8 @@
-import { MagnifyingGlass } from "@phosphor-icons/react";
 import { useEffect, useState } from "react";
 import { Pricelist } from "./libs/typeAnnotation";
 import Table from "./Components/Table";
 import { useDebounce } from "./libs/useDebounce";
+import Header from "./Components/Header";
 
 function App() {
     const [data, setData] = useState<Pricelist[]>([]);
@@ -33,10 +33,6 @@ function App() {
         fetchData();
     }, []);
 
-    useEffect(() => {
-        setFormatedData(data);
-    }, [data]);
-
     const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
         setSearch(e.target.value);
     };
@@ -44,13 +40,7 @@ function App() {
     return (
         <main className="min-h-screen max-w-[1200px] mx-auto">
             <header className="py-5 flex items-center justify-between px-5 flex-wrap gap-5 border-b-2 border-black">
-                <h1 className="text-3xl font-bold underline">Harga Batu Alam</h1>
-                <div className="flex gap-2 items-center justify-center border-2 px-2 py-1 rounded-md bg-white">
-                    <button>
-                        <MagnifyingGlass size={32} />
-                    </button>
-                    <input onChange={handleSearch} type="text" placeholder="Search..." className="py-1 focus:outline-none focus:border-none " />
-                </div>
+                <Header handleSearch={handleSearch} />
             </header>
             <section className="py-5">
                 <Table data={formatedData} />
