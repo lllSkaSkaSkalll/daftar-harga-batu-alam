@@ -7,8 +7,8 @@ import TableHead from "./TableHead";
 const Table = ({ data }: { data: Pricelist[] }) => {
     return (
         <table className="w-full bg-slate-800 text-white px-5 font-bold text-sm md:text-base">
-            <thead className="border-b-2 border-slate-900 bg-teal-500 md:text-2xl">
-                <TableHead />
+            <thead className="border-b-2 border-white bg-teal-500 md:text-2xl">
+                <TableHead length={data.length} />
             </thead>
             <tbody>
                 {data.map((item, index) => {
