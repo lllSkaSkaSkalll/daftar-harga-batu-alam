@@ -3,7 +3,7 @@ export const priceChange = {
     camel: 0,
     marmer: 0,
     marmo: 0,
-    palimanan: 0,
+    palimanan: 5000,
     welcoding: 0,
     candi: 0,
     paras: 0,
